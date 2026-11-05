@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://omer-poyraz.github.io/sudozen-privacy-policy/sitemap.xml
